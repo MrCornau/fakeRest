@@ -1,16 +1,26 @@
 {
-  "posts":[
+  "positiveComments": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "autor": "Jmeynn",
+      "selftext": "nan",
+      "title": "Started designing a magazine out of my own photos. I'm planning on documenting the whole thing with small tutorials on some of the effects I create.",
+      "num-comments": 1,
+      "score": 1,
+      "date": "2019-08-07 07:51:17",
+      "content": "Started designing a magazine out of my own photos. -----> I !!! 'm planning on documenting the whole thing with small tutorials on some of the effects -----> -----> I !!!  create !!! .",
+      "link": "https://www.reddit.com/r/photography/comments/cn2uvw/started_designing_a_magazine_out_of_my_own_photos/"
     }
   ],
-  "comments" : [
+  "uselesComments": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "autor": "Jmeynn",
+      "selftext": "nan",
+      "title": "Started designing a magazine out of my own photos. I'm planning on documenting the whole thing with small tutorials on some of the effects I create.",
+      "num-comments": 1,
+      "score": 1,
+      "date": "2019-08-07 07:51:17",
+      "content": "Started designing a magazine out of my own photos. -----> I !!! 'm planning on documenting the whole thing with small tutorials on some of the effects -----> -----> I !!!  create !!! .",
+      "link": "https://www.reddit.com/r/photography/comments/cn2uvw/started_designing_a_magazine_out_of_my_own_photos/"
     }
   ]
 }
