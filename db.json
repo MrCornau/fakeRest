@@ -1,15 +1,13 @@
 {
   "positiveComments": [
     {
-      "id": 0,
-      "autor": "Jmeynn",
-      "selftext": "nan",
-      "title": "Started designing a magazine out of my own photos. I'm planning on documenting the whole thing with small tutorials on some of the effects I create.",
-      "num-comments": 1,
-      "score": 1,
-      "date": "2019-08-07 07:51:17",
-      "content": "Started designing a magazine out of my own photos. -----> I !!! 'm planning on documenting the whole thing with small tutorials on some of the effects -----> -----> I !!!  create !!! .",
-      "link": "https://www.reddit.com/r/photography/comments/cn2uvw/started_designing_a_magazine_out_of_my_own_photos/"
+      "autor": "thenickdude",
+      "selftext": "For the past month I've been working on creating a stupid-long 300mm 3D-printed extension tube so that I could push my macro lens all the way to 5x magnification, and it's finally done!\n\nSince Canon cameras controls their lens aperture electronically, and stopping down the aperture is pretty much a requirement for getting any depth of field in macro, I had to create a lens contact system using gold contacts, a ribbon cable, and pogo pins. It even supports autofocus!\n\nYou can see the extension tube and a couple of photos I shot with it here:\n\nhttps://imgur.com/a/r7kHDC2\n\nI've posted the 3D-printable models and full build instructions on my Thingiverse page here:\n\nhttps://www.thingiverse.com/thing:3761957\n\nThingiverse's server is really struggling right now, so if that doesn't load I've posted a mirror of it here too:\n\nhttps://sherlock-photography.github.io/canon-extension-tube/\n\nThe tube was printed in black PETG filament on my Prusa i3 MK3S.",
+      "title": "I designed and 3D-printed a massive 300mm Canon extension tube for super-macro at 5x magnification, it even has autofocus!",
+      "date": "2019-08-06 11:18:30",
+      "content": "-----> -----> I !!!  designed !!!  and 3D-printed a massive 300mm Canon extension tube for super-macro at 5x magnification, it even has autofocus! /!/ For the past month I've been working on creating a stupid-long 300mm 3D-printed extension tube so that I could push my macro lens all the way to 5x magnification, and it's finally done!\n\nSince Canon cameras controls their lens aperture electronically, and stopping down the aperture is pretty much a requirement for getting any depth of field in macro, I had to create a lens contact system using gold contacts, a ribbon cable, and pogo pins. It even supports autofocus!\n\nYou can see the extension tube and a couple of photos I shot with it here:\n\nhttps://imgur.com/a/r7kHDC2\n\nI've posted the 3D-printable models and full build instructions on my Thingiverse page here:\n\nhttps://www.thingiverse.com/thing:3761957\n\nThingiverse's server is really struggling right now, so if that doesn't load I've posted a mirror of it here too:\n\nhttps://sherlock-photography.github.io/canon-extension-tube/\n\nThe tube was printed in black PETG filament on my Prusa i3 MK3S.",
+      "link": "https://www.reddit.com/r/photography/comments/cmpa2z/i_designed_and_3dprinted_a_massive_300mm_canon/",
+      "id": 7
     }
   ],
   "uselesComments": [
