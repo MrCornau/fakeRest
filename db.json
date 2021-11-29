@@ -1,112 +1,301 @@
 {
   "positiveComments": [
     {
-      "autor": "ngt_",
-      "date": "2020-01-22 19:22:35",
-      "content": "A team at Facebook -----> AI !!!  has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing -----> camera !!! , GPS, and compass data, the algorithm gets a robot to its goal 99.9% of the time along a near-optimal route.",
-      "link": "https://www.reddit.com/r/Futurology/comments/esgqn0/a_team_at_facebook_ai_has_created_a_reinforcement/",
+      "autor": "m1900kang2",
+      "date": "2020-11-17 14:26:51",
+      "content": "Raspberry Pi -----> ML !!!  Camera with TensorFlow Lite",
+      "link": "https://www.reddit.com/r/Cameras/comments/jvtuuq/raspberry_pi_ml_camera_with_tensorflow_lite/",
       "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2020-30_12_2020",
-      "id": 1
+      "filename": "Subreddit_Cameras_01_01_2020-30_12_2020",
+      "id": 54
     },
     {
-      "autor": "JEUNGHWAN",
-      "date": "2020-03-27 13:08:15",
-      "content": "I made -----> AI !!!  for changing -----> photo !!!  to anime filter by machine learning",
-      "link": "https://www.reddit.com/r/programming/comments/fpwmux/i_made_ai_for_changing_photo_to_anime_filter_by/",
+      "autor": "flying-in",
+      "date": "2020-05-16 19:56:33",
+      "content": "Camera far reaching lens with computer interface /!/ Hello! I have an EOS M100 (15-45mm lens) and am very happy with the camera. I have used it for quite a bit, but mostly on automatic mode. I am learning to explore some of the settings in manual mode and slowly getting better. Here is a pic I took a while ago playing around with a tea cup\n\n&amp;#x200B;\n\nhttps://preview.redd.it/ecwg5bfip6z41.png?width=1277&amp;format=png&amp;auto=webp&amp;s=b190ea5982ef27ec91261f53b33b06f903c5d6cb\n\nMy new obsession is not tea cups but trains and the graffiti on them. I have taken the following picture the other day of the train rolling through the city that is approx 360 meters away (45mm focal):\n\nhttps://preview.redd.it/7wjt2n2dp6z41.png?width=1276&amp;format=png&amp;auto=webp&amp;s=11836c6b4409f2ee167795c93e07d6e5f3929366\n\nand zoomed in (of previous image) on the train cart:\n\nhttps://preview.redd.it/wd7q3dm8d6z41.png?width=1187&amp;format=png&amp;auto=webp&amp;s=aa58ecc70c9f1c65bf6310ff67d91b65fd69c2e8\n\nThe resolution is good but I want much better. Say something like this(but perhaps better ) i found on google:\n\n&amp;#x200B;\n\n[https://i.pinimg.com/originals/64/3b/f7/643bf7a25d579ba70e6b3dc96a7e1206.jpg](https://i.pinimg.com/originals/64/3b/f7/643bf7a25d579ba70e6b3dc96a7e1206.jpg)\n\n&amp;#x200B;\n\n(ignore the messaging on it)\n\n&amp;#x200B;\n\nI want to be able to read the text on the cart and detailed picture of the grafitti. I could buy an additional lense for the EOS M100 as listed here ([https://travelfornoobs.com/best-lenses-for-canon-eos-m100/](https://travelfornoobs.com/best-lenses-for-canon-eos-m100/))  - in the 200mm range (will this be sufficient for my desired resolution?). However, the EOS M100 is not the best in my opinion in terms of software for my project.\n\n&amp;#x200B;\n\nFor my project I am looking to document and classify train graffiti. Perhaps I will identify various styles or artists...or whatever discovery I make -  I am not sure yet. Perhaps I will just make a big poster with composed of many train shots and gift it to a friend. I feel like I am exploring an ancient language in a Egyptian pyramid and do not know where the exploration will take me but I am very excited of all the possibilities.\n\n&amp;#x200B;\n\nI have lots of trains rolling in on this bridge and I am considering setting up two cameras. The first camera would be a very primitive camera with the purpose of identifying moving trains (this would be done with some sort of -----> machine learning !!!  type approach - I have never done something like this, but have enough experience in programming to tackle such a project and know that it is possible. For this camera I will use something cheap - my 8megapixel phone camera seems to be okay for this for picking up movement.\n\n&amp;#x200B;\n\nThe first camera will identify when the trains are rolling in (there are like 20 minutes breaks in between) and based on the computed speed of train the second camera will take picture of each train cart while it is on the clear shot area of the bridge. The images will then be transferred to a computer for post processing of some sort.\n\n&amp;#x200B;\n\nMy EOS m100 is not the best candidate for the second camera (assuming I had an appropriate lens). It is difficult to automate picture taking. I have done a rough test - eos m100 has a cell phone app provided by canon that is capable of taking pictures remotely through the cell phone on screen press. This can be hooked up to a laptop that just automates the pressing of a cellphone screen in order to take pictures ([https://www.rightpoint.com/rplabs/automating-input-events-abd-keyevent](https://www.rightpoint.com/rplabs/automating-input-events-abd-keyevent)) - the laptop can hypothetically use camera one's machine learning data to automate the press when required. However, after basic trials I am not sure I can really specify the image taking rate based  on different train speed (they don't go too fast so it is not the biggest concern but getting consistent shots of train carts on the exact same part of the bridge would be nice). The EOS sometimes needs to refocus between pictures and I don't think I can get too precise with the picture taking rate. For constant power I could buy something like this ([https://www.amazon.com/Glorich-ACK-E12-Replacement-Adapter-Mirrorless/dp/B00VNSD7LW](https://www.amazon.com/Glorich-ACK-E12-Replacement-Adapter-Mirrorless/dp/B00VNSD7LW)). In addition, it is difficult to extract images from the EOS m100 live without taking out the sd card and exiting the canon remote picture taking app which would require physical interference and not be able to allow my camera two to take pictures for many days at a time (I would like to take pictures for a few weeks minimum).\n\n&amp;#x200B;\n\n&amp;#x200B;\n\nMy question to you guys:\n\n&amp;#x200B;\n\nWhat general lens do you recommend for getting the resolution that I desire?\n\nWhat camera core body (without the lens) do you recommend that could provide more effective interface with my computer for automated picture taking and image downloads while still being powered on for days on end?\n\nPerhaps I could combine the two questions together for a camera/lens combo.\n\n&amp;#x200B;\n\nMy budget is in Canadian. I want to hear all recommendations, I can  squeeze 1000-2000 dollars, but if it is a really good camera I can view it is an investment for future.",
+      "link": "https://www.reddit.com/r/Cameras/comments/gl17mu/camera_far_reaching_lens_with_computer_interface/",
       "origin": "reddit.com",
-      "filename": "Subreddit_programming_01_01_2020-30_12_2020",
-      "id": 2
+      "filename": "Subreddit_Cameras_01_01_2020-30_12_2020",
+      "id": 55
     },
     {
-      "autor": "Forxius",
-      "date": "2021-10-21 21:35:19",
-      "content": "Future of Virtual Online Personalities /!/ When I think of the future of VTubers and Virtual personalities on Instagram etc. I think of people being able to real-time deepfake their voice in whatever voice they want, deepfaking their faces to -----> AI !!!  generated ones to become whoever they desire to be online and while making videos or posting images on Instagram. Think of people being -----> camera !!!  shy or just wanting to remain their privacy online, while still wanting to make commentary videos on YouTube, for example. Like those Anime VTubers do. Where do you see this going the next decade? Do you think in 2030, you’ll be able to do the the thing I mentioned? In 8-9 years, a lot can happen, just look at smartphones. This tech could revolutionize entertainment on all platforms and make it possible to express yourself in ways never possible before.",
-      "link": "https://www.reddit.com/r/singularity/comments/qd2136/future_of_virtual_online_personalities/",
+      "autor": "NicoleGirl11",
+      "date": "2020-06-27 17:40:39",
+      "content": "Next Gen Camera Gear. This device uses -----> AI !!!  to help take the best photo possible. I can’t wait to see what images I can take!",
+      "link": "https://www.reddit.com/r/Photography_Gear/comments/hgxu0n/next_gen_camera_gear_this_device_uses_ai_to_help/",
       "origin": "reddit.com",
-      "filename": "Subreddit_singularity_01_01_2021-01_11_2021",
-      "id": 3
+      "filename": "Subreddit_Photography_Gear_01_01_2020-30_12_2020",
+      "id": 56
     },
     {
-      "autor": "ChrisTweten",
-      "date": "2020-09-24 06:29:00",
-      "content": "A controversial -----> photo !!!  editing app slammed for -----> AI !!! -enabled 'blackface' feature",
-      "link": "https://www.reddit.com/r/technology/comments/iyrzwv/a_controversial_photo_editing_app_slammed_for/",
+      "autor": "DTONME",
+      "date": "2020-03-10 15:49:11",
+      "content": "Sony A7III vs Google Pixel 3 Camera /!/ I searches this sub looking for this and was shocked to see there weren't any threads comparing the Sony Alphas to phone cameras...but then I realized that she sense because until I see this test I never would have even considered comparing a phone camera to a full frame Sony camera. \n\nI've had the Google pixel 3XL since it came out and it has a great camera but I never considered it to be a viable alternative to my Sony A7ii or Fuji X series cameras. \n\nThen I saw this post that blew my mind. \n\nhttps://petapixel.com/2018/11/24/google-pixel-3-vs-sony-a7r-iii-a-low-light-shootout/\n\n\nYes the colors are much better from the Sony. The exposures on the Sony see better. The Sony makes all around better photos, of course BUT the Google Pixel 3 2/3\" camera with a tiny let's that is just an add on to a cell phone,  is pretty amazingly close to the quality of the full frame mirrorless camera.\n\nI think this is insane to see.\n\n\nThis makes me excited to see what the hell the future of photography will be like when they add this kind of software to the quality optics of a real camera.  It will be wild. I can't even imagine what would be possible if a some a7iii had the Google -----> AI !!! . Nuts.",
+      "link": "https://www.reddit.com/r/SonyAlpha/comments/fgfv8a/sony_a7iii_vs_google_pixel_3_camera/",
       "origin": "reddit.com",
-      "filename": "Subreddit_technology_01_01_2020-30_12_2020",
-      "id": 4
+      "filename": "Subreddit_SonyAlpha_01_01_2020-30_12_2020",
+      "id": 57
     },
     {
-      "autor": "izumi3682",
-      "date": "2018-11-02 13:12:43",
-      "content": "Intel and Tencent debut -----> AI !!! -powered -----> camera !!!  systems for retail",
-      "link": "https://www.reddit.com/r/Futurology/comments/9tjyhg/intel_and_tencent_debut_aipowered_camera_systems/",
+      "autor": "Jennifer_go1",
+      "date": "2018-02-26 09:27:12",
+      "content": "A camera gadget makes DSLR cameras point-and-shoot through -----> AI !!! ",
+      "link": "https://www.reddit.com/r/canon/comments/80btej/a_camera_gadget_makes_dslr_cameras_pointandshoot/",
       "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2018-30_12_2018",
-      "id": 5
+      "filename": "Subreddit_canon_01_01_2018-30_12_2018",
+      "id": 58
     },
     {
-      "autor": "izumi3682",
-      "date": "2019-02-13 14:27:28",
-      "content": "-----> AI !!!  guides single------> camera !!!  drone through hallways it’s never seen before",
-      "link": "https://www.reddit.com/r/Futurology/comments/aq743a/ai_guides_singlecamera_drone_through_hallways_its/",
+      "autor": "BlackHoleTec",
+      "date": "2018-04-24 11:31:25",
+      "content": "Nvidia's -----> AI !!!  Realistically Reconstructs Photos",
+      "link": "https://www.reddit.com/r/photography/comments/8ejozm/nvidias_ai_realistically_reconstructs_photos/",
       "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2019-30_12_2019",
-      "id": 6
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 59
     },
     {
-      "autor": "QuantumThinkology",
-      "date": "2019-07-16 23:05:33",
-      "content": "Researchers Developed an -----> AI !!!  that Can ‘Relight’ Portraits After the Fact. In other words: their system can take any -----> photo !!!  and adjust the lighting at will—including the direction, temperature, and quality of the light.",
-      "link": "https://www.reddit.com/r/Futurology/comments/ce4k3k/researchers_developed_an_ai_that_can_relight/",
+      "autor": "craftyrafter",
+      "date": "2018-07-10 14:12:54",
+      "content": "Nvidia Taught an -----> AI !!!  to Flawlessly Erase Watermarks From Photos",
+      "link": "https://www.reddit.com/r/photography/comments/8xpi0o/nvidia_taught_an_ai_to_flawlessly_erase/",
       "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2019-30_12_2019",
-      "id": 7
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 60
     },
     {
-      "autor": "izumi3682",
-      "date": "2018-06-26 19:15:45",
-      "content": "This Japanese -----> AI !!!  security -----> camera !!!  shows the future of surveillance will be automated",
-      "link": "https://www.reddit.com/r/Futurology/comments/8u2sw3/this_japanese_ai_security_camera_shows_the_future/",
+      "autor": "Threethreefivee",
+      "date": "2018-03-30 15:11:11",
+      "content": "What does everyone think about this Arsenal -----> AI !!!  device? /!/ They must have taken all the kick starter money and put it in to Instagram and Facebook advertising because that thing is everywhere lol. \n\nAs someone with limited time the focus stacking and multiple exposure workflows spark my interest, but I already know how to my camera so it doesn’t do much else for me. \n\nAnyone with a deeper knowledge of mechanics care to share their opinions? ",
+      "link": "https://www.reddit.com/r/photography/comments/88b1fo/what_does_everyone_think_about_this_arsenal_ai/",
       "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2018-30_12_2018",
-      "id": 8
-    },
-    {
-      "autor": "nopantsdolphin",
-      "date": "2019-06-04 11:33:48",
-      "content": "New -----> AI !!!  could reconstruct a person's full image from a partially occluded -----> photo !!! ",
-      "link": "https://www.reddit.com/r/Futurology/comments/bwnngp/new_ai_could_reconstruct_a_persons_full_image/",
-      "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2019-30_12_2019",
-      "id": 9
-    },
-    {
-      "autor": "izumi3682",
-      "date": "2018-07-05 12:19:45",
-      "content": "-----> AI !!! -powered instant -----> camera !!!  turns photos into crude cartoons",
-      "link": "https://www.reddit.com/r/Futurology/comments/8w9zu1/aipowered_instant_camera_turns_photos_into_crude/",
-      "origin": "reddit.com",
-      "filename": "Subreddit_Futurology_01_01_2018-30_12_2018",
-      "id": 10
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 61
     },
     {
       "autor": "[deleted]",
-      "date": "2020-06-15 18:17:45",
-      "content": "An -----> AI !!!  can generate -----> photo !!! graphs of people’s faces from line drawings: Lin Gao at the Chinese Academy of Sciences in Beijing and his colleagues have developed an algorithm that instantly turns a rudimentary line sketch of a person’s face into a -----> photo !!!  portrait. /!/ [deleted]",
-      "link": "https://www.reddit.com/r/technology/comments/h9lokt/an_ai_can_generate_photographs_of_peoples_faces/",
+      "date": "2018-03-12 07:47:28",
+      "content": "An -----> AI !!!  Photo Enhancer - DSLR quality photos from low-quality images. /!/ [deleted]",
+      "link": "https://www.reddit.com/r/photography/comments/83t9i0/an_ai_photo_enhancer_dslr_quality_photos_from/",
       "origin": "reddit.com",
-      "filename": "Subreddit_technology_01_01_2020-30_12_2020",
-      "id": 11
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 62
     },
     {
-      "autor": "JEUNGHWAN",
-      "date": "2020-03-27 13:08:15",
-      "content": "I made -----> AI !!!  for changing -----> photo !!!  to anime filter by machine learning",
-      "link": "https://www.reddit.com/r/programming/comments/fpwmux/i_made_ai_for_changing_photo_to_anime_filter_by/",
+      "autor": "Jennifer_go1",
+      "date": "2018-02-01 03:43:35",
+      "content": "-----> AI !!! -powered automatic adjustment to capture amazing images in any conditions, store data &amp; share instantly?",
+      "link": "https://www.reddit.com/r/photography/comments/7ufxri/aipowered_automatic_adjustment_to_capture_amazing/",
       "origin": "reddit.com",
-      "filename": "Subreddit_programming_01_01_2020-30_12_2020",
-      "id": 12
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 63
+    },
+    {
+      "autor": "cryptoz",
+      "date": "2018-11-09 17:52:49",
+      "content": "Google is using -----> AI !!!  to help The New York Times digitize 5 million historical photos",
+      "link": "https://www.reddit.com/r/photography/comments/9vmm9q/google_is_using_ai_to_help_the_new_york_times/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 64
+    },
+    {
+      "autor": "johnwayne2413",
+      "date": "2018-05-30 03:05:36",
+      "content": "This -----> AI !!!  Learned To See In The Dark | Two Minute Papers #253",
+      "link": "https://www.reddit.com/r/photography/comments/8n589i/this_ai_learned_to_see_in_the_dark_two_minute/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 65
+    },
+    {
+      "autor": "VanCityMac",
+      "date": "2018-11-02 08:46:43",
+      "content": "How do you guys feel about the trend of software/hardware companies bringing -----> AI !!!  to photography and editing? /!/ As a Software Engineer I find it fascinating that AI can be applied to such a broad range of topics but as a person who enjoys photography I am not so sure I like it becoming a standard on more and more tools.  \n\n\nI find some tools really interesting such as [Arsenal](https://www.kickstarter.com/projects/2092430307/arsenal-the-intelligent-camera-assistant-0) as a great way to help people to get into more complex parts of photography for the first time.  \n\n\nOther tools like [Luminar](https://skylum.com/luminar) use AI to apply changes in the editing process. Luminar claims to adjust yo your style so I suppose it could cut down on work needed to get images to have the same feel as others in a set.  \n\n\nThe part of me that loves browsing other peoples work and seeing the personality of each photographer conveyed in their images is worried that this trend will lead to a loss of personal style in images which we already see on platforms like Instagram where you can brows thousands of profiles and see the same colours, the same deep dark greens, and whatever else is trendy at the moment. I do really enjoy the images, but it feels to me like the art of photography is getting lost with more and more tools that promote AI or generic filters and presets that so many people use and leave.  \nI also understand that these tools can help get to a decent starting point for editing but then the editor/photographer can adjust them to make it their own with a bit less effort.  \n\n\nThe other part of me that likes an easy and efficient process sees it as a great way to help professionals cut down on post processing work and help in other aspects of their workflow.  \n\n\nI see the benefit of such tools but I also feel like it could lead to a place where AI will just generate images and people will be passing it off as their work because they pressed a button.  \n\n\nI also know many people will use these tools to help them improve or be more efficient, and probably a large amount of people will not use tools like this because they find joy in making every adjustment or setting reflect their vision for the viewers.  \n\n\nAnyway, what are your thoughts on tools like this and the general trend we are seeing of more and more tools appearing?",
+      "link": "https://www.reddit.com/r/photography/comments/9tia69/how_do_you_guys_feel_about_the_trend_of/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 66
+    },
+    {
+      "autor": "ResoStrike",
+      "date": "2018-02-26 04:23:52",
+      "content": "470ex -----> AI !!!  \"auto-bounce\" demo from B&amp;H",
+      "link": "https://www.reddit.com/r/photography/comments/80a9ho/470ex_ai_autobounce_demo_from_bh/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 67
+    },
+    {
+      "autor": "Gnurx",
+      "date": "2018-09-07 06:29:09",
+      "content": "-----> AI !!!  sees into the dark",
+      "link": "https://www.reddit.com/r/photography/comments/9drljl/ai_sees_into_the_dark/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 68
+    },
+    {
+      "autor": "taixhi",
+      "date": "2018-10-21 15:40:27",
+      "content": "This -----> AI !!!  app will help you compose photos better",
+      "link": "https://www.reddit.com/r/photography/comments/9q4ghe/this_ai_app_will_help_you_compose_photos_better/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 69
+    },
+    {
+      "autor": "taixhi",
+      "date": "2018-10-21 15:40:27",
+      "content": "This -----> AI !!!  app will help you compose photos better",
+      "link": "https://www.reddit.com/r/photography/comments/9q4ghe/this_ai_app_will_help_you_compose_photos_better/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2018-30_12_2018",
+      "id": 70
+    },
+    {
+      "autor": "karl_hagstrom",
+      "date": "2020-02-05 19:28:10",
+      "content": "Quickly organize 10000+ photos [tip] /!/ Yearly I have to sift through 10000+ photos from my families cellphone cameras with the single task of deciding which ones to save and which ones to delete (I usually end up deleting like 80 % of them).\n\nI have been searching for a good program to help me get more efficient with this task, but until today without any luck (tried lots!)\n\nSince I am a Software Developer I finally decided to make my own. Imagine the dating app Tinder, but for photos and on Windows that lets you \"swipe\" through all photos(/videos) in a folder and lets you decide which ones to save or delete with the press of a button.\n\nMy program is called [Easy Photo Organizer](https://www.microsoft.com/store/apps/9NSMB0R66PBB) (Microsoft store) and has a free trial (15 days) that includes all the features (even -----> AI !!! -autodeletion), then if you didn't have time to finish cleaning up you cluttered hard drive, its a single cost of 10$.\n\nI added features like:\n\n* **Swap current photo** with last saved or deleted photo (they are shown as thumbnails next to current photo)\n* **Compare mode:** lets you compare the last saved image with the current one, side by side, to help you keep only the best photo of a series of good similar photos.\n* **AI-AutoDeletion:** With the use of a neural network I have made a model that automatically can loop through all photos in a folder and auto delete the blurry/dark ones with a selectable threshold.\n* **Copy-mode:** great for selecting out photos for a specific project (doesn't touch the original photo, but instead makes a copy in the \"/save\" folder.\n* **RAW-conversion:** Not much effort put into this. It just saves a jpg (80% compression) copy of current image (if saved is selected) next to the original RAW (not all formats supported jet!)\n\nThe program actually **doesn't delete** any of your photos, but rather moves them into one of the subfolders: \"/save\", \"/delete\" or \"/autodeleted\"\n\nPlease let me know if you find a bug, have features that you'd want me to add or just if you liked it!\n\nHope that I can help some of you to finally take on the massive task of decluttering your hard drive from bad photos =)",
+      "link": "https://www.reddit.com/r/photography/comments/ezevp9/quickly_organize_10000_photos_tip/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 71
+    },
+    {
+      "autor": "giuliomagnifico",
+      "date": "2020-12-29 19:10:07",
+      "content": "Blink-----> AI !!!  world’s first -----> AI !!! -powered ‘Night Mode’ for video (Xiaomi Mi 11)",
+      "link": "https://www.reddit.com/r/photography/comments/kmkod2/blinkai_worlds_first_aipowered_night_mode_for/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 72
+    },
+    {
+      "autor": "pooooosldbgicsb",
+      "date": "2020-11-22 21:28:17",
+      "content": "Be my tester &amp; find more photo shoot spots /!/ Hi I’m a student who is looking for beta testers to try the app I have been working on throughout 2020. The app is a place to review, rate, and find local restaurants and hiking trails with the help of -----> AI !!! .\n\n\nIf anyone is interested, here is the signup link: https://docs.google.com/forms/d/12sYqlD51uKvx2Ip8xTrOeE8j4GqfEWjzHPbY3WhO9UQ",
+      "link": "https://www.reddit.com/r/photography/comments/jz3xmw/be_my_tester_find_more_photo_shoot_spots/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 73
+    },
+    {
+      "autor": "iainmf",
+      "date": "2020-08-23 04:31:58",
+      "content": "This -----> AI !!!  Removes Shadows From Your Photos",
+      "link": "https://www.reddit.com/r/photography/comments/iex3jn/this_ai_removes_shadows_from_your_photos/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 74
+    },
+    {
+      "autor": "User1N23456",
+      "date": "2020-09-10 10:48:33",
+      "content": "Topaz DeNoise -----> AI !!!  overlooks parts of the image /!/ When working in DeNoise, on some \\[astro\\] images the software will overlook certain spots and it ends up painfully obvious where a chunk of the sky or other area has barely been treated for noise. How can I manually point out to the program the regions it missed and fix them? Sometimes it's literally the same sky with nothing special and while 80% of it looks fine, there will be a portion of it almost completely ignored by AI.\n\nI've noticed there's a brush/mask tool there now but I'm not too clear on how to use it in my situation.",
+      "link": "https://www.reddit.com/r/photography/comments/iq1064/topaz_denoise_ai_overlooks_parts_of_the_image/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 75
+    },
+    {
+      "autor": "reinfected",
+      "date": "2020-05-14 12:38:59",
+      "content": "Sony announces first -----> AI !!!  image sensor",
+      "link": "https://www.reddit.com/r/photography/comments/gjljyf/sony_announces_first_ai_image_sensor/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 76
+    },
+    {
+      "autor": "Diffrentiaali",
+      "date": "2020-07-16 14:03:59",
+      "content": "Any good -----> Ai !!!  photo organizers? /!/ Hello! I have tens of thousands of photos in my external hard drive and some of them in my PC. (win 10)  I realized that It's very huge job to find the one I am looking for.  \n   \nSo I figured out that to find the photo I am looking for, I would need to have some sort of an artificial intelligent tool that will tag all the photos automatically for me based on what's in the photo.   \n\n\nHowever, there is only few of those and I have no idea what would actually be good. I bet some of you have experiences of those, so please, if you can help me, it would be very helpful! :)",
+      "link": "https://www.reddit.com/r/photography/comments/hsa7b3/any_good_ai_photo_organizers/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 77
+    },
+    {
+      "autor": "shian243",
+      "date": "2020-09-26 17:41:50",
+      "content": "This -----> AI !!!  Creates Real Scenes From Your Photos!",
+      "link": "https://www.reddit.com/r/photography/comments/j0adh4/this_ai_creates_real_scenes_from_your_photos/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 78
+    },
+    {
+      "autor": "Chelsva",
+      "date": "2020-04-21 23:28:22",
+      "content": "-----> AI !!!  photo culling tool - beta testers needed /!/ [removed]",
+      "link": "https://www.reddit.com/r/photography/comments/g5q7wu/ai_photo_culling_tool_beta_testers_needed/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 79
+    },
+    {
+      "autor": "zxrooo",
+      "date": "2020-06-22 23:24:56",
+      "content": "Check out this new -----> Ai !!!  - ran Twitter account that posts photos..",
+      "link": "https://www.reddit.com/r/photography/comments/he39yd/check_out_this_new_ai_ran_twitter_account_that/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 80
+    },
+    {
+      "autor": "cheesylasagne69",
+      "date": "2020-06-26 20:16:46",
+      "content": "This insane Youtuber uses neural networks (-----> ML !!! ) to upscale a B&amp;W era of George Eastman level (video)photography. Really corrects your vision that life in those days was definitely in color.",
+      "link": "https://www.reddit.com/r/photography/comments/hgf4pq/this_insane_youtuber_uses_neural_networks_ml_to/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 81
+    },
+    {
+      "autor": "SciTroll",
+      "date": "2020-09-25 13:18:08",
+      "content": "Photoshop will soon use -----> AI !!!  to add dramatic skies to your boring photos",
+      "link": "https://www.reddit.com/r/photography/comments/izj95k/photoshop_will_soon_use_ai_to_add_dramatic_skies/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 82
+    },
+    {
+      "autor": "DeddyDayag",
+      "date": "2020-10-10 09:04:06",
+      "content": "The right image is Hubble, the left is an amateur astrophotographer. What do you think about these guys, using Topaz -----> AI !!!  to create FAKE details in their images? I find this totally frustrating that I struggle for every arcsecond of details and these guys post images like this and get a lot of hype.",
+      "link": "https://www.reddit.com/r/photography/comments/j8hccl/the_right_image_is_hubble_the_left_is_an_amateur/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 83
+    },
+    {
+      "autor": "velaazul",
+      "date": "2020-12-24 00:19:42",
+      "content": "Anybody tried \"Aftershoot\"? /!/ \"Free -----> AI !!! -Powered image culling for Photographers\" -- has anybody tried this? Looks pretty interesting but who knows...? Doesn't seem to be any buzz anywhere.\n\n[https://aftershoot.co/](https://aftershoot.co/)",
+      "link": "https://www.reddit.com/r/photography/comments/kj4sdq/anybody_tried_aftershoot/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 84
+    },
+    {
+      "autor": "lo0sepanda",
+      "date": "2020-08-07 01:42:25",
+      "content": "New Zealand wedding photographer's start-up harnessing -----> AI !!!  to ease image processing. It checks focus and facial expression and then provides a rating on the image so you can more easily select 'the best'",
+      "link": "https://www.reddit.com/r/photography/comments/i54w3t/new_zealand_wedding_photographers_startup/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 85
+    },
+    {
+      "autor": "merwanedr",
+      "date": "2020-06-17 09:29:39",
+      "content": "Popbot - Apply color splash effects using -----> AI !!! . /!/ You can use Popbot to automatically apply color splash effects to photos by selecting a subject. I created it a few months ago as an experiment and now monetized it. \n\n[https://gumroad.com/l/jFOCU](https://gumroad.com/l/jFOCU)",
+      "link": "https://www.reddit.com/r/photography/comments/hanxt5/popbot_apply_color_splash_effects_using_ai/",
+      "origin": "reddit.com",
+      "filename": "Subreddit_photography_01_01_2020-30_12_2020",
+      "id": 86
     }
   ],
   "uselesComments": [
