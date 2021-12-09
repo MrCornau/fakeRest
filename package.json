@@ -1,17 +1,3 @@
-{
-  "name": "json-server-deploy",
-  "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [
-    "json-server,heroku, node, REST API"
-  ],
-  "author": "Jesper Orb",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfbe6c95d2be82d8fe3af55fa46743ae09cb35d6e3c5f7ce8516e551481982b7
+size 370
